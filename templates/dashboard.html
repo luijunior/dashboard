@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            iframe{
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        {% if sucesso %}
+            <iframe src="{{dashboard}}">
+                
+            </iframe>
+        {% else %}
+            {{msg}}
+        {% endif %}
+    </body>
+</html>

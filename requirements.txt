@@ -1,0 +1,6 @@
+flask-login
+flask
+google-api-python-client
+requests
+Flask-KVSession
+oauth2client

@@ -1,0 +1,14 @@
+{
+  "googleId": 123,
+  "email": "luizlagj3@gmail.com",
+  "dashboards": [
+    {
+      "name": "abasteceai",
+      "frame": "http://localhost:5601/app/kibana#/dashboard/af786a00-aabb-11e7-a868-09ead2283239?embed=true&_g=(refreshInterval%3A(display%3AOff%2Cpause%3A!f%2Cvalue%3A0)%2Ctime%3A(from%3Anow-24h%2Cmode%3Aquick%2Cto%3Anow))"
+    },
+    {
+      "name": "kmv",
+      "frame": "http://localhost:5601/app/kibana#/dashboard/af786a00-aabb-11e7-a868-09ead2283239?embed=true&_g=(refreshInterval%3A(display%3AOff%2Cpause%3A!f%2Cvalue%3A0)%2Ctime%3A(from%3Anow-24h%2Cmode%3Aquick%2Cto%3Anow))"
+    }
+  ]
+}
